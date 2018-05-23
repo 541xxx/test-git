@@ -1,7 +1,7 @@
 <template>
   <div>
     <p :class="$style.card">
-      {{text}}12312
+      {{text}}123121231231235123123
     </p>
   </div>
 </template>
