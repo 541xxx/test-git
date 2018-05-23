@@ -3,7 +3,7 @@
     <ul class="container log-list">
       <li v-for="(log, index) in logs" :class="{ red: aa }" :key="index" class="log-item">
         <card :text="(index + 1) + ' . ' + log"></card>
-        <span>12312123123133</span>
+        <span>12312123123133412412414142412</span>
       </li>
     </ul>
   </div>
