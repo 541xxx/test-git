@@ -2,7 +2,6 @@
 
 > A Mpvue project
 
-## Build Setup
 
 ``` bash
 # install dependencies
