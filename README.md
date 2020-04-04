@@ -1,6 +1,5 @@
 # my-project
 
-> A Mpvue project
 
 
 ``` bash
